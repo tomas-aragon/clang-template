@@ -1,0 +1,1 @@
+This is the placeholder text for my C-language blank project template, by default MIT, please ignore!!! 
